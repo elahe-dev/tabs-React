@@ -2,4 +2,4 @@
 
 A tab content task done with react
 
-[![demo](../src/assets/sc.png)]
+[![demo](./src/assets/sc.png)]
